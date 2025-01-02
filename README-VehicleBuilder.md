@@ -23,7 +23,9 @@
   
   After install run the following in the integrated terminal: "npm i" to install and use inquirer. From there type "npm start" to be given the prompts for building your vehicle, then use your arrow keys to go through the control options for operating your vehicle. 
 
-  See demo here: https://www.dropbox.com/scl/fi/br0anr8w2f5lau3588sr2/VehicleBuilder-Screen-Recording-2024-12-12-at-10.35.46-PM.mov?rlkey=f6j16wou1usyodao6u7smrq48&st=mw4htetz&dl=0
+
+  See demo here:[ https://www.dropbox.com/scl/fi/br0anr8w2f5lau3588sr2/VehicleBuilder-Screen-Recording-2024-12-12-at-10.35.46-PM.mov?rlkey=f6j16wou1usyodao6u7smrq48&st=mw4htetz&dl=0](https://www.dropbox.com/scl/fi/br0anr8w2f5lau3588sr2/VehicleBuilder-Screen-Recording-2024-12-12-at-10.35.46-PM.mov?rlkey=f6j16wou1usyodao6u7smrq48&st=8rciqjo6&dl=0)
+  
   
   ## License
   
